@@ -105,10 +105,10 @@ async def not_joined(client: Client, message: Message):
     reply_markup = InlineKeyboardMarkup(
         [
              [
-                  InlineKeyboardButton("Gabung Untuk Akses Bot🔞", url="https://t.me/joinchat/70HrUxqvIN44Y2U0")
+                  InlineKeyboardButton("Gabung Untuk Akses Bot🔞", url="https://t.me/asupanB18")
              ],
             [
-                  InlineKeyboardButton("𝗞𝗢𝗟𝗘𝗞𝗦𝗜 𝗕𝟭 🔞", url="https://t.me/asupanB18"),
+                  InlineKeyboardButton("𝙰𝚂𝚄𝙿𝙰𝙽 𝙷𝙾𝚃 𝟷𝟾+ 𝚅𝙸𝚁𝙰𝙻 🔞", url="https://t.me/asupanhotviral"),
                   InlineKeyboardButton("𝐃𝐔𝐍𝐈𝐀 𝐌𝐀𝐋𝐀𝐌 🔞", url="https://t.me/DuniaMalamku18")
              ],
              
